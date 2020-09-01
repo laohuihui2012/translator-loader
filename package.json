@@ -1,0 +1,17 @@
+{
+  "name": "translator-loader-lhh",
+  "version": "1.0.1",
+  "description": "a webpack loader for translate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "translator-loader",
+    "webpack",
+    "loader",
+    "Chinese is translated into traditional Chinese"
+  ],
+  "author": "laohuihui2012",
+  "license": "ISC"
+}
